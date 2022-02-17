@@ -1,8 +1,8 @@
 import random
-FAST_FOOD = ["Blaze Pizza", "Chipotle", "Mickie Dickie's", "In-n-Out", "Wingstop", "Eggettes", "Chick-Fila", "Nick The Greek", "Domino's"]
+FAST_FOOD = ["Blaze Pizza", "Chipotle", "McDonald's", "In-n-Out", "Wingstop", "Eggettes", "Chick-Fila", "Nick The Greek", "Domino's"]
 WARM_FOOD = ["Marugame", "Kevin's Pho", "Boudin", "Manna"]
 SPECIAL_FOOD = ["KBBQ", "Bonchon", "Ramen Nagi", "San Tung", "Daeho", "Dim Sum"]
-RANDOM_FOOD = ["Blaze Pizza", "Chipotle", "Mickie Dickie's", "In-n-Out", "Wingstop", "Eggettes",
+RANDOM_FOOD = ["Blaze Pizza", "Chipotle", "McDonald's", "In-n-Out", "Wingstop", "Eggettes",
                "Marugame", "Kevin's Pho", "Boudin", "KBBQ", "Bonchon", "San Tung", "Chick-Fila", "Daeho", "Manna", "Dim Sum", "Nick The Greek", "Domino's"]
 
 Random_Food_Generator = False
